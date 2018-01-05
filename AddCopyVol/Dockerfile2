@@ -1,0 +1,6 @@
+
+FROM ubuntu:latest
+MAINTAINER James Nguyen 
+RUN mkdir /myvol
+RUN echo "Hello World" > /myvol/hello.txt
+VOLUME /myvol
