@@ -1,4 +1,5 @@
 ### kaniko
+* source = https://github.com/GoogleContainerTools/kaniko/blob/master/examples/pod.yaml
 
 #### create Dockerfile 
 ```
